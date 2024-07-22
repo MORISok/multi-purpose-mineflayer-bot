@@ -60,6 +60,8 @@ bot.once('spawn', () => {
   })
 })
 
+// I will try to later change these into a single function with a variable input instead of this mess. Why didn't I do that at the beginning?
+
 bot.on('chat', (username, message) => {
   if (message === '!slot 1') {
     bot.setQuickBarSlot(1)
