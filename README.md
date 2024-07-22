@@ -43,7 +43,7 @@ At first, it might seem hard and confusing, but you will get used to it! Once yo
 
 # FAQ
 
-Q: Where can i upload my suggestions for the bot modules?
+Q: Where can I upload my suggestions for the bot modules?
 
 A: You can upload suggestions [here](https://github.com/morisok31/atgmaildotcom_mineflayer_bot/pulls).
 
